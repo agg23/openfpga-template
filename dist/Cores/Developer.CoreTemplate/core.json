@@ -3,12 +3,12 @@
         "magic": "APF_VER_1",
         "metadata": {
             "platform_ids": ["ex_platform"],
-            "shortname": "Core Template",
+            "shortname": "CoreTemplate",
             "description": "APF core template. Displays gray test screen.",
             "author": "Developer",
-            "url": "https://github.com/open-fpga/core-template",
+            "url": "https://github.com/agg23/openfpga-template",
             "version": "1.1.0",
-            "date_release": "2022-08-23"
+            "date_release": "2023-02-28"
         },
         "framework": {
             "target_product": "Analogue Pocket",
